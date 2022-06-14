@@ -19,10 +19,6 @@ function App() {
         genero = 'Rock'
       />
       <Escenario/>
-      <LineUp
-        dia = 'Viernes 21'
-        genero = 'Rock'
-      />
       
     </div>
   )

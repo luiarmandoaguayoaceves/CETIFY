@@ -1,11 +1,13 @@
 import React from "react";
+import imagen_vocal from '../img/imagen_vocalista.jpg';
+
 
 function SobreFestival(){
     return(
         <section className="contenedor sobre-festival">
         <div className="imagen">
                 <img 
-                src='../img/imagen_vocalista.jpg' 
+                src={imagen_vocal} 
                 alt="imagen vocalista" />
         </div>
         <div className="contenido-festival">

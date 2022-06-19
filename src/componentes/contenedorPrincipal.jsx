@@ -12,7 +12,7 @@ function ContenedorPrincipal() {
                     <p>David Alejandro Gonzalez Quezada, 20110407.</p>
                 </div>
             </div>
-            <video autoplay muted loop>
+            <video autoPlay muted loop>
                 <source 
                 src="video/concierto.webm" 
                 type="video/webm" />
